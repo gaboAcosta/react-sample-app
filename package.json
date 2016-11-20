@@ -1,0 +1,15 @@
+{
+  "name": "react-from-scratch",
+  "version": "1.0.0",
+  "description": "React study test",
+  "main": "bundle.js",
+  "scripts": {
+    "dev": "webpack-dev-server --progress --colors"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
